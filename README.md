@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samar Abbas</h1>
-<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
+<h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samar-abbas-786&label=Profile%20views&color=0e75b6&style=flat" alt="samar-abbas-786" /> </p>
 
