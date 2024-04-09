@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AL/ML**
 
-- 👨‍💻 All of my projects are available at [https://samarabbas-portfolio.netlify.app/](https://samarabbas-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://samarabbas-portfolio.netlify.app/](https://personal-web-samar786.vercel.app/)
 
 - 📫 How to reach me **samarabbas172003@gmail.com**
 
