@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/samarab65178114" target="blank"><img src="https://img.shields.io/twitter/follow/samarab65178114?logo=twitter&style=for-the-badge" alt="samarab65178114" /></a> </p>
 
-- 🌱 I’m currently learning **AL/ML**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://samarabbas-portfolio.netlify.app/](https://personalportfoliosamarabbas.netlify.app/)
 
