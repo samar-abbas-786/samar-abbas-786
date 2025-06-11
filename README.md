@@ -16,7 +16,7 @@
 ### 📫 Reach Me At
 - 📧 **Email : ** samarabbas172003@gmail.com  
 - 🐦 **Twitter:** [@samarab65178114](https://twitter.com/samarab65178114)  
-- 💼 **LinkedIn:** [Samar Abbas](https://linkedin.com/in/samar-abbas-a1ab4625a)  
+- 💼 **LinkedIn: ** [Samar Abbas](https://linkedin.com/in/samar-abbas-a1ab4625a)  
 - 📷 **Instagram : ** [@samar_abbas_786](https://instagram.com/samar_abbas_786)
 
 ---
