@@ -40,7 +40,7 @@
 
 ### ✨ Fun Facts
 - 🚀 I love building **full-stack apps** with extra ✨ magic features.
-- 💡 Currently exploring **AI integrations** and **Android automation**.
+- 💡 Currently exploring **AI integrations** and **Automation**.
 - 🛠️ I build tools, apps, and platforms that solve real-world problems — check out my projects!
 
 ---
