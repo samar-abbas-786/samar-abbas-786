@@ -39,8 +39,8 @@
 ---
 
 ### ✨ Fun Facts
-- 🚀 I love building **full-stack MERN apps** with extra ✨ magic features.
-- 💡 Currently exploring **AI integrations** and **Android automation** using ADBKit.
+- 🚀 I love building **full-stack apps** with extra ✨ magic features.
+- 💡 Currently exploring **AI integrations** and **Android automation**.
 - 🛠️ I build tools, apps, and platforms that solve real-world problems — check out my projects!
 
 ---
