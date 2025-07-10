@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=samar-abbas-786&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/samar-abbas-786?label=Followers&style=flat-square&color=00d9ff" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-India-00d9ff?style=flat-square" alt="Lives" />
 </p>
 
 ---
@@ -23,11 +22,11 @@ const samarAbbas = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
   focus: "AI Integration & Automation",
-  motto: "Building the future, one line at a time"
+  currentlyBuilding: "Production-ready web applications"
 };
 ```
 
-🚀 **What I Do:** Build scalable full-stack apps • Integrate AI/ML solutions • Create stunning UIs • Develop automation tools
+🚀 **What I Do:** Build scalable full-stack applications • Integrate AI/ML solutions • Create automation tools • Develop browser extensions
 
 ---
 
@@ -40,15 +39,34 @@ const samarAbbas = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎥 [TubeGate](https://github.com/samar-abbas-786/tubegate) - Automated YouTube Publishing Platform
+Automates YouTube video publishing with AI-powered content optimization and payment integration.
+- **Impact:** Reduced publishing time by 60%
+- **Tech:** Next.js, PostgreSQL, Prisma, YouTube API, Cloudinary, Razorpay
+
+### 🧠 [LeetQ](https://github.com/samar-abbas-786/leetq) - AI Browser Assistant
+Chrome extension providing AI-driven contextual hints for LeetCode problems.
+- **Tech:** React.js, Express.js, Anthropic API, CRXJS
+- **Feature:** Real-time AI suggestions with secure API handling
+
+### 📦 [Samar-Kit](https://www.npmjs.com/package/samar-kit) - MERN Boilerplate CLI
+NPM package for instantly scaffolding production-ready MERN stack applications.
+- **Command:** `npx samar-kit`
+- **Tech:** Node.js, React.js, Express.js, MongoDB, TailwindCSS
+
+### 🎓 [EduPI](https://github.com/samar-abbas-786/edupi) - Digital Classrooms
+Centralized education portal with video lectures, quizzes, and performance tracking.
+- **Tech:** React.js, Express.js, MongoDB, TailwindCSS, XLSX
 
 ---
 
@@ -63,7 +81,7 @@ const samarAbbas = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar-abbas-786&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </div>
 
-
+---
 
 ## 🌐 Let's Connect
 
@@ -71,8 +89,8 @@ const samarAbbas = {
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarabbas172003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-abbas-a1ab4625a)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samarab65178114)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samar_abbas_786)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://samarabbas.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/samar-abbas-786)
 
 </div>
 
@@ -86,8 +104,6 @@ const samarAbbas = {
   
 **"Building the future, one line at a time"** 🚀
 
-⭐ If you find my work interesting, please consider giving it a star!
-
-</div>
+⭐ **Open to collaborations and new opportunities!**
 
 </div>
