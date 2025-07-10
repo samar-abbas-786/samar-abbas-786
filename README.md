@@ -69,23 +69,6 @@ const samarAbbas = {
   <img src="https://github-profile-trophy.vercel.app/?username=samar-abbas-786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
----
-
-## 🎯 Currently Working On
-
-```yaml
-Projects:
-  - 🤖 AI-Powered Web Applications
-  - 🔧 Developer Tools & Automation
-  - 📱 Modern React Applications
-  
-Learning:
-  - 🧠 Machine Learning Integration
-  - ☁️ Cloud Architecture
-  - 🔒 Cybersecurity
-```
-
----
 
 ## 🌐 Let's Connect
 
