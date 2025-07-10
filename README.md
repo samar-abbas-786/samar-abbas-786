@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Samar Abbas
+#  Samar Abbas
 ### Full Stack Developer | AI Enthusiast | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samar+Abbas;Full+Stack+Developer+%F0%9F%92%BB;Building+Amazing+Digital+Experiences+%E2%9C%A8;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Let's+Build+Something+Incredible!" alt="Typing SVG" />
