@@ -22,7 +22,7 @@
 const samarAbbas = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
   tech: ["React", "Next.js", "Node.js", "MongoDB"],
   focus: "AI Integration & Automation",
   motto: "Building the future, one line at a time"
