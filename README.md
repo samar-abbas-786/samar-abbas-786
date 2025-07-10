@@ -65,9 +65,6 @@ const samarAbbas = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samar-abbas-786&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samar-abbas-786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
 
 
 ## 🌐 Let's Connect
