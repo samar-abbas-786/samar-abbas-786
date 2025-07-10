@@ -47,28 +47,7 @@ const samarAbbas = {
 
 ---
 
-## 🚀 Featured Projects
 
-### 🎥 [TubeGate](https://github.com/samar-abbas-786/tubegate) - Automated YouTube Publishing Platform
-Automates YouTube video publishing with AI-powered content optimization and payment integration.
-- **Impact:** Reduced publishing time by 60%
-- **Tech:** Next.js, PostgreSQL, Prisma, YouTube API, Cloudinary, Razorpay
-
-### 🧠 [LeetQ](https://github.com/samar-abbas-786/leetq) - AI Browser Assistant
-Chrome extension providing AI-driven contextual hints for LeetCode problems.
-- **Tech:** React.js, Express.js, Anthropic API, CRXJS
-- **Feature:** Real-time AI suggestions with secure API handling
-
-### 📦 [Samar-Kit](https://www.npmjs.com/package/samar-kit) - MERN Boilerplate CLI
-NPM package for instantly scaffolding production-ready MERN stack applications.
-- **Command:** `npx samar-kit`
-- **Tech:** Node.js, React.js, Express.js, MongoDB, TailwindCSS
-
-### 🎓 [EduPI](https://github.com/samar-abbas-786/edupi) - Digital Classrooms
-Centralized education portal with video lectures, quizzes, and performance tracking.
-- **Tech:** React.js, Express.js, MongoDB, TailwindCSS, XLSX
-
----
 
 ## 📊 GitHub Stats
 
